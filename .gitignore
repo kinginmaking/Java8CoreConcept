@@ -1,0 +1,5 @@
+/out/production/Java8CoreConcept/com/javabrains/
+*.xml
+*.iml
+*.html
+*.gitignore
