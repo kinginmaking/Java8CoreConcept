@@ -1,7 +1,7 @@
 package com.javabrains.multithreading_concepts;
 
 
-import java.util.Collections;
+
 import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.ExecutorService;

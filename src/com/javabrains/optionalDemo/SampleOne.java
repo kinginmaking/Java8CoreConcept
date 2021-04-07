@@ -31,8 +31,8 @@ public class SampleOne {
 
     public static void main(String[] args) {
 
-         // trial1();
-        trial2();
+          trial1();
+       // trial2();
 
 
     }
